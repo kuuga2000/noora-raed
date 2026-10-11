@@ -1,0 +1,31 @@
+{
+  "blocks": {
+    "header": {
+      "cart": "Cart"
+    },
+    "appBanner": {
+      "download_now": "download now"
+    }
+  },
+  "pages": {
+    "cart": {
+      "cart_options": "Cart Options"
+    },
+    "products": {
+      "optional_options_hint": "You can customize your order by selecting the available options below.",
+      "required_free_options_message": "Please select all required options before completing your order."
+    },
+    "order": {
+      "can_edit_or_delete_your_review_within": "You can edit or delete your review within",
+      "edit_period_ended": "The period to edit the review has ended",
+      "delete_period_ended": "The period to delete the review has ended",
+      "days_since_added": "days since it was added",
+      "option_name": "Option name",
+      "option_content": "Content"
+    }
+  },
+  "common": {
+    "bank_offer_sub_title_multiple": "Pay for your purchases via one of the following bank cards and get the specified discount",
+    "bank_offer_sub_title_single": "Pay for your purchases via :bank_name bank card and get discount"
+  }
+}
